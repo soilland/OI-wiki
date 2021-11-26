@@ -1,6 +1,4 @@
-mkdocs>=1
-pymdown-extensions
-Pygments>=2.2,<2.4
+
 mkdocs
 mkdocs-bootswatch
 mkdocs-minify-plugin
